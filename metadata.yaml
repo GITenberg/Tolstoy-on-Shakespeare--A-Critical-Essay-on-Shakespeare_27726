@@ -6,13 +6,13 @@ contributor:
     aliases:
     - Shaw, Bernhard
     - Shaw, George Bernard
-    birthdate: &id001 1856
+    birthdate: 1856
     deathdate: 1950
     gutenberg_agent_id: '467'
     url: http://www.gutenberg.org/2009/agents/467
     wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
   - agent_name: Crosby, Ernest Howard
-    birthdate: *id001
+    birthdate: 1856
     deathdate: 1907
     gutenberg_agent_id: '8611'
     url: http://www.gutenberg.org/2009/agents/8611
@@ -54,6 +54,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27726#Tolstoy-on-Shakespeare--A-Critical-Essay-on-Shakespeare
 gutenberg_issued: '2009-01-07'
 gutenberg_type: Text
 identifiers:

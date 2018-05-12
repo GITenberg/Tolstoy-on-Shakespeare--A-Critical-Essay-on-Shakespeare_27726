@@ -1,0 +1,71 @@
+_repo: Tolstoy-on-Shakespeare--A-Critical-Essay-on-Shakespeare_27726
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Shaw, Bernard
+    aliases:
+    - Shaw, Bernhard
+    - Shaw, George Bernard
+    birthdate: &id001 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+  - agent_name: Crosby, Ernest Howard
+    birthdate: *id001
+    deathdate: 1907
+    gutenberg_agent_id: '8611'
+    url: http://www.gutenberg.org/2009/agents/8611
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Howard_Crosby
+  translators:
+  - agent_name: Mayo, Isabella Fyvie
+    aliases:
+    - I. F. M. (Isabella Fyvie Mayo)
+    - Garrett, Edward
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '32880'
+    url: http://www.gutenberg.org/2009/agents/32880
+  - agent_name: Chertkov, V. G. (Vladimir Grigorevich)
+    aliases:
+    - Tchertkoff, V. (Vladimir)
+    - Chertkov, Vladimir
+    - Чертков, В. Г. (Владимир Григорьевич)
+    birthdate: 1854
+    deathdate: 1936
+    gutenberg_agent_id: '32523'
+    url: http://www.gutenberg.org/2009/agents/32523
+    wikipedia: http://en.wikipedia.org/wiki/Vladimir_Chertkov
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Graf Leo
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    - Толстой, Лев Николаевич
+    - Tolstoy, Lev N.
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2009-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27726'
+  lccn: 07014638
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Political and social views'
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+title: 'Tolstoy on Shakespeare: A Critical Essay on Shakespeare'
+url: http://www.gutenberg.org/ebooks/27726
